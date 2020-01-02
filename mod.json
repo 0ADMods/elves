@@ -1,0 +1,8 @@
+{
+	"name": "elves",
+	"version": "1.0.0",
+	"label": "Elves",
+	"url": "https://github.com/0ADMods/elves",
+	"description": "TBD.",
+	"dependencies": ["0ad=0.0.24"]
+}
