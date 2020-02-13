@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Elven Civic Center">
+      <animations/>
+      <mesh>structures/elven/civic_center_01_01.dae</mesh>
+      <props/>
+      <textures>
+        <texture file="structures/elven/civic_center_01_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant name="empty" frequency="1"/>
+    <variant name="garrisoned" frequency="0"/>
+  </group>
+  <group>
+    <variant name="alive" frequency="1"/>
+    <variant name="death" frequency="0"/>
+  </group>
+  <material>default.xml</material>
+</actor>
