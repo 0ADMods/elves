@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Elven Head Hair Long">
+      <animations/>
+      <color>238 218 157</color>
+      <mesh>props/heads/elven/male_hair_long.dae</mesh>
+      <props/>
+      <textures>
+        <texture file="props/heads/elven/male.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>objectcolor.xml</material>
+</actor>
