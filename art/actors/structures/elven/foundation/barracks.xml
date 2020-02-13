@@ -2,7 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="Elven Barracks">
+    <variant frequency="1" name="Elven Barracks Foundation">
       <animations/>
       <mesh>structures/elven/foundation/barracks.dae</mesh>
       <props/>
