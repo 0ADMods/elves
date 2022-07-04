@@ -1,7 +1,7 @@
 # Credits
 ## Buildings
 - Barracks (Original model CC0 by Kwaliti https://www.artstation.com/kwaliti) Reworked by Stan
-- Civic Center (Original model CC0 by Kwaliti https://www.artstation.com/kwaliti) Reworked by Stan
+- Civic Center (Original models CC0 by Kwaliti https://www.artstation.com/kwaliti) Reworked by Stan
 
 ## Icons
 - town_hall.png (by Kwaliti and Jinn) (licensed under the CC0)
